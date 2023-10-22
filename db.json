@@ -1,6 +1,5 @@
 {
   "distribuidora-corporate-services-v1-transmissao-leitura": {
-    "rotasTransmitidas": {
       "retorno": {
         "codigo": "1",
         "mensagem": "Consulta realizada com sucesso!"
@@ -68,5 +67,4 @@
         }
       ]
     }
-  }
 }
