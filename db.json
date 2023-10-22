@@ -1,5 +1,5 @@
 {
-    "rotasTransmitidas": {
+    "/distribuidora/corporate/services/v1/transmissao/leitura": {
         "retorno": {
             "codigo": "1",
             "mensagem": "Consulta realizada com sucesso!"
