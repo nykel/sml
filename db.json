@@ -1,68 +1,70 @@
 {
-    "retorno": {
-        "codigo": "1",
-        "mensagem": "Consulta realizada com sucesso!"
-    },
-    "rotas": [
-        {
-            "id": "898",
-            "condominios": [
-                {
-                    "codigo": "0000077823",
-                    "rotasUCs": [
-                        {
-                            "idDC": "",
-                            "idRotaUC": 19144,
-                            "status": "PENDENTE"
-                        }
-                    ]
-                }
-            ]
+    "rotasTransmitidas": {
+        "retorno": {
+            "codigo": "1",
+            "mensagem": "Consulta realizada com sucesso!"
         },
-        {
-            "id": "904",
-            "condominios": [
-                {
-                    "codigo": "0000077823",
-                    "rotasUCs": [
-                        {
-                            "idDC": 79809,
-                            "idRotaUC": 19158,
-                            "status": "OK"
-                        },
-                        {
-                            "idDC": 79810,
-                            "idRotaUC": 19157,
-                            "status": "OK"
-                        },
-                        {
-                            "idDC": 79812,
-                            "idRotaUC": 19156,
-                            "status": "OK"
-                        }
-                    ]
-                },
-                {
-                    "codigo": "0000077824",
-                    "rotasUCs": [
-                        {
-                            "idDC": 79809,
-                            "idRotaUC": 19158,
-                            "status": "OK"
-                        },
-                        {
-                            "idDC": 79810,
-                            "idRotaUC": 19157,
-                            "status": "OK"
-                        },
-                        {
-                            "idDC": 79812,
-                            "idRotaUC": 19156,
-                            "status": "OK"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+        "rotas": [
+            {
+                "id": "898",
+                "condominios": [
+                    {
+                        "codigo": "0000077823",
+                        "rotasUCs": [
+                            {
+                                "idDC": "",
+                                "idRotaUC": 19144,
+                                "status": "PENDENTE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "904",
+                "condominios": [
+                    {
+                        "codigo": "0000077823",
+                        "rotasUCs": [
+                            {
+                                "idDC": 79809,
+                                "idRotaUC": 19158,
+                                "status": "OK"
+                            },
+                            {
+                                "idDC": 79810,
+                                "idRotaUC": 19157,
+                                "status": "OK"
+                            },
+                            {
+                                "idDC": 79812,
+                                "idRotaUC": 19156,
+                                "status": "OK"
+                            }
+                        ]
+                    },
+                    {
+                        "codigo": "0000077824",
+                        "rotasUCs": [
+                            {
+                                "idDC": 79809,
+                                "idRotaUC": 19158,
+                                "status": "OK"
+                            },
+                            {
+                                "idDC": 79810,
+                                "idRotaUC": 19157,
+                                "status": "OK"
+                            },
+                            {
+                                "idDC": 79812,
+                                "idRotaUC": 19156,
+                                "status": "OK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
 }
